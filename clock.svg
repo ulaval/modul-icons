@@ -1,0 +1,6 @@
+<svg id="clock" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="currentColor" fill="none">
+        <circle cx="12" cy="12" r="11.5"/>
+        <polyline points="20.3,12 12,12 12,4.7 	"/>
+    </g>
+</svg>
