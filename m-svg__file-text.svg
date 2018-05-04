@@ -1,22 +1,14 @@
 <svg id="m-svg__file-text" viewBox="0 0 24 24" data-badge-origin="20.5,23.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g>
-        <g>
-            <g>
-                <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.5,5.5V23 c0,0.3-0.2,0.5-0.5,0.5H4c-0.3,0-0.5-0.2-0.5-0.5V1c0-0.3,0.2-0.5,0.5-0.5h11.5v5H20.5z"/>
-                <polygon fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="15.5,0.5 15.5,5.5 20.5,5.5 			"/>
-            </g>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="6" x2="12" y2="6"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="9" x2="16.5" y2="9"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="12" x2="10" y2="12"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="15" x2="10" y2="15"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="18" x2="10" y2="18"/>
-        </g>
-        <g>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="14.1" y1="18" x2="14.1" y2="12"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.6" y1="12" x2="16.5" y2="12"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="13.1" y1="18" x2="15.1" y2="18"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.6" y1="12" x2="11.6" y2="12.8"/>
-            <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.5" y1="12" x2="16.5" y2="12.8"/>
-        </g>
-    </g>
+    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.5,5.5V23 c0,0.3-0.2,0.5-0.5,0.5H4c-0.3,0-0.5-0.2-0.5-0.5V1c0-0.3,0.2-0.5,0.5-0.5h11.5v5H20.5z"/>
+    <polygon fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="15.5,0.5 15.5,5.5 20.5,5.5 			"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="6" x2="12" y2="6"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="9" x2="16.5" y2="9"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="12" x2="10" y2="12"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="15" x2="10" y2="15"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="18" x2="10" y2="18"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="14.1" y1="18" x2="14.1" y2="12"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.6" y1="12" x2="16.5" y2="12"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="13.1" y1="18" x2="15.1" y2="18"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.6" y1="12" x2="11.6" y2="12.8"/>
+    <line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.5" y1="12" x2="16.5" y2="12.8"/>
 </svg>
