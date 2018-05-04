@@ -1,0 +1,9 @@
+<svg id="m-svg__file-dwg" viewBox="0 0 24 24" data-badge-origin="20.5,23.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.5,5.5V23
+		c0,0.3-0.2,0.5-0.5,0.5H4c-0.3,0-0.5-0.2-0.5-0.5V1c0-0.3,0.2-0.5,0.5-0.5h11.5v5H20.5z"/>
+	<polygon fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="15.5,0.5
+		15.5,5.5 20.5,5.5 		"/>
+	<line fill="none" stroke="currentColor" stroke-miterlimit="10" x1="9.9" y1="0.5" x2="9.9" y2="23.5"/>
+	<line fill="none" stroke="currentColor" stroke-miterlimit="10" x1="20.5" y1="10.3" x2="3.5" y2="10.3"/>
+	<rect x="7.2" y="7.6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="5.4" height="5.4"/>
+</svg>
