@@ -1,0 +1,11 @@
+<svg id="m-svg__image-slideshow" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect x="0.6" y="0.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18.3" height="18.3"/>
+	<polygon fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="16.4,13 
+		3.4,13 6.1,8.3 7.8,11.2 11.5,4.7 			"/>
+	<circle fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="4.6" cy="3.6" r="1.6"/>
+	<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.6" y1="13" x2="18.8" y2="13"/>
+	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="3.1,21.2 
+		21.1,21.2 21.1,3.2 	"/>
+	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="5.8,23.5 
+		23.4,23.5 23.4,5.8 	"/>
+</svg>

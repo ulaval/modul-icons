@@ -1,0 +1,10 @@
+<svg id="m-svg__screen4" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="17.5,0.5 23.5,0.5 23.5,6.5 	"/>
+	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,6.5 0.5,0.5 6.5,0.5 	"/>
+	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="6.5,23.5 0.5,23.5 0.5,17.5 	"/>
+	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="23.5,17.5 23.5,23.5 17.5,23.5 	"/>
+	<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.5" y1="0.5" x2="15" y2="9"/>
+	<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.5" y1="23.5" x2="9" y2="15"/>
+	<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.5" y1="23.5" x2="15" y2="15"/>
+	<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.5" y1="0.5" x2="9" y2="9"/>
+</svg>
