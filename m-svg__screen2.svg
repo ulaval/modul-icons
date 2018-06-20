@@ -1,6 +1,0 @@
-<svg id="m-svg__screen2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="23.5,9 15,9 15,0.5 	"/>
-	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="9,0.5 9,9 0.5,9 	"/>
-	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,15 9,15 9,23.5 	"/>
-	<polyline fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="15,23.5 15,15 23.5,15 	"/>
-</svg>
