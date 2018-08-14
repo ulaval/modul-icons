@@ -1,13 +1,12 @@
 <svg id="m-svg__multimedia" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g fill="none" stroke="currentColor" stroke-linejoin="round">
-        <g stroke-linecap="round">
-            <ellipse class="cls-1" cx="16.43" cy="18.95" rx="2.22" ry="1.69" />
-            <polyline class="cls-1" points="18.65 18.72 18.65 11.77 21.11 14.22" />
-            <rect class="cls-1" x="0.5" y="0.5" width="23" height="23" rx="0.5" ry="0.5" />
-            <line class="cls-1" x1="0.5" y1="3.83" x2="23.5" y2="3.83" />
+    <g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10">
+        <g stroke-width="0.8825" stroke-linecap="round">
+            <ellipse cx="16.1" cy="19.3" rx="2.3" ry="1.8"/>
+            <polyline points="18.4,19.1 18.4,11.8 21,14.3"/>
         </g>
-        <polygon class="cls-2" points="16.67 11.31 13.94 10.12 13.94 8.14 16.67 6.95 16.67 11.31" />
-        <rect class="cls-2" x="6.13" y="6.46" width="6.59" height="5.34" rx="0.5" ry="0.5" />
-        <polygon class="cls-2" points="8.74 19.33 7.89 18.15 4.26 20.77 2.91 18.89 6.54 16.28 5.7 15.12 11.03 14.48 8.74 19.33" />
+        <polygon points="18.3,9.6 15.1,8.2 15.1,5.9 18.3,4.4"/>
+        <path d="M13.1,10.2H6.2C6,10.2,5.7,10,5.7,9.7V4.3 c0-0.3,0.2-0.5,0.5-0.5h6.9c0.3,0,0.5,0.2,0.5,0.5v5.4C13.6,10,13.4,10.2,13.1,10.2z"/>
+        <path stroke-linecap="round" d="M23,0.5H1 C0.8,0.5,0.5,0.7,0.5,1v22c0,0.3,0.2,0.5,0.5,0.5h22c0.3,0,0.5-0.2,0.5-0.5V1C23.5,0.7,23.3,0.5,23,0.5z"/>
+        <polygon points="10,19.3 9,17.9 4.7,21 3.1,18.8 7.4,15.7 6.4,14.3 12.8,13.6 "/>
     </g>
 </svg>
