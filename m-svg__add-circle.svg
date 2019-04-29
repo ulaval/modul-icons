@@ -1,0 +1,6 @@
+<svg id="m-svg__add-circle" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<circle stroke="currentColor" fill="transparent" cx="12" cy="12" r="11.5"/>
+	<line stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" x1="7" y1="12" x2="17" y2="12"/>
+	<line stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="17" x2="12" y2="7"/>
+</svg>
+
