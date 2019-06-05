@@ -1,4 +1,4 @@
-<svg id="m-svg__tip" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="m-svg__hint" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.4,8.9
 		c0,3.7-2.4,6.8-5.6,7.9v5.1h-1.3v1.6h-2.6v-1.6H9.4v-5c-3.3-1.1-5.8-4.2-5.8-8c0-4.6,3.8-8.4,8.4-8.4S20.4,4.3,20.4,8.9z"/>
 	<line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9.4" y1="17.9" x2="14.8" y2="17.9"/>
